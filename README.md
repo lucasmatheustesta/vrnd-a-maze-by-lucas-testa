@@ -4,6 +4,11 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Course: VR Software Development
 - Project: A Maze
 
+### Supported platforms
+This projects can be used in Android or iOS platforms
+
+### Main Scene
+The main scene is "Main"
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
